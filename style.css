@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  margin: auto;
+}
+.sfondo {
+  background-color: bisque;
+}
+.logo-name {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+.image {
+  text-align: center;
+}
+.testo-foto {
+  text-align: center;
+  color: rgba(128, 128, 128, 0.469);
+}
+h4 {
+  color: red;
+}
